@@ -16,19 +16,12 @@ A simple Z-Mark would resemble this:
 ```
 0 ( 3859601647582956 )
 
-
 1 ( 6834945246515304
-
     Name of Z-Mark
-
     https://example.com
-
     favicon.ico
-
     A helpful note!
-
     (0,#) ...
-
    )
 ```
 
