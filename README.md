@@ -28,4 +28,5 @@ References
 ----------
 
 [Ecto documentation](http://hexdocs.pm/ecto/Ecto.html)
+
 [Elm documentation](http://elm-lang.org/docs)
