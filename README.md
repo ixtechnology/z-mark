@@ -13,7 +13,7 @@ Elm frontend <---> Ecto queries <---> Postgres database
 
 A simple Z-Mark would resemble this:
 
-`
+```
 0 ( 3859601647582956 )
 
 
@@ -30,7 +30,7 @@ A simple Z-Mark would resemble this:
     (0,#) ...
 
    )
-`
+```
 
 References
 ----------
