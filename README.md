@@ -9,7 +9,7 @@ Bookmarks suck. The solution? Hyperorthognal Data Structures!
 Design
 ------
 
-Elm frontend <---> Ecto queries <---> Postgres database
+[Phoenix](http://www.phoenixframework.org/) : [Ecto](http://hexdocs.pm/ecto/Ecto.html) : [SQLite](https://www.sqlite.org/)
 
 A simple Z-Mark would resemble this:
 
