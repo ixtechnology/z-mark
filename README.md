@@ -4,9 +4,9 @@ Z-Mark
 Synopsis
 --------
 
-Bookmarks suck. The solution? Hyperorthognal Data Structures!
+Bookmarks suck. The solution? Hyperorthogonal Data Structures!
 
-Design
+Designo
 ------
 
 Z-Mark uses [ZigZag Data Structures](http://www.xanadu.com/zigzag/) to organize,
