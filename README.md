@@ -4,12 +4,17 @@ Z-Mark
 Synopsis
 --------
 
-Bookmarks suck. The solution? Hyperorthognal Data Structures!
+Bookmarks suck. The solution? Hyperorthogonal Data Structures!
 
-Design
+Designo
 ------
 
-Elm frontend <---> Ecto queries <---> Postgres database
+Z-Mark uses [ZigZag Data Structures](http://www.xanadu.com/zigzag/) to organize,
+store, and share web bookmarks. The web frontend for Z-Mark will use
+[Elixir](http://elixir-lang.org/)'s 
+[Plug](http://hexdocs.pm/plug/extra-readme.html) and 
+[Ecto](http://hexdocs.pm/ecto/Ecto.html) libraries to provide a neat web 
+interface for an [SQLite](https://sqlite.org) database.
 
 A simple Z-Mark would resemble this:
 
@@ -24,10 +29,3 @@ A simple Z-Mark would resemble this:
     (0,#) ...
    )
 ```
-
-References
-----------
-
-[Ecto documentation](http://hexdocs.pm/ecto/Ecto.html)
-
-[Elm documentation](http://elm-lang.org/docs)
