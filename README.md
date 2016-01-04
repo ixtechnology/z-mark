@@ -6,7 +6,7 @@ Synopsis
 
 Bookmarks suck. The solution? Hyperorthogonal Data Structures!
 
-Designo
+Design
 ------
 
 Z-Mark uses [ZigZag Data Structures](http://www.xanadu.com/zigzag/) to organize,
